@@ -1,0 +1,1249 @@
+ 
+Monetizing high traffic websites
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+Start Here
+
+
+
+
+Explore
+
+
+
+ 
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+        Community
+         
+ 
+
+
+Connect with other founders and creators.
+
+
+ 
+ 
+ 
+
+
+
+
+        Explore
+         
+ 
+
+
+Browse the best of Indie Hackers.
+
+
+ 
+ 
+ 
+
+
+
+
+        Products
+         
+ 
+
+
+See what everyone's working on.
+
+
+ 
+ 
+ 
+
+
+
+
+        Podcasts
+         
+ 
+
+
+Learn while you're on the go.
+
+
+ 
+ 
+ 
+
+
+
+
+        Meetups
+         
+ 
+
+
+Meet indie hackers across the globe.
+
+
+
+
+ 
+ 
+
+
+
+
+        Store
+         
+ 
+
+
+Buy an Indie Hackers t-shirt.
+
+
+ 
+ 
+ 
+
+
+
+
+        Newsletter
+         
+ 
+
+
+
+        Stay up-to-date in 5 minutes or less.
+      
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+Log In
+
+
+Sign Up
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+9
+
+      Likes
+    
+
+
+
+ 
+ 
+
+
+  0
+  Bookmarks
+
+
+
+ 
+ 
+
+
+                16
+                Comments
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Report
+
+
+
+
+
+
+
+          Monetizing high traffic websites
+        
+
+          by
+            
+Dean 
+ 
+
+  I currently own a content based website that receives around 500,000 unique visitors and 9,000,000 pageviews per month. Mostly organic traffic, predominately from the united states.
+I've been using adsense to monetize for the last 3 years, but I feel that the revenue is low compared to the amount of traffic I get.
+Are there any other ad platforms that you would recommend other than adsense for high-traffic websites?
+
+Just an update here for those who are interested, I ended up switching to BuySellAds Optimize and have more-or-less seen an increase of 5x my original revenue that I had with adsense.
+Traffic has also increased to around 14m PV, 1M UV since this original post which is absolutely insane.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+          Dean
+        
+
+
+
+
+ 
+
+                posted to
+            
+
+
+Advertising
+
+
+            on September 9, 2020
+
+
+
+
+ 
+ 
+
+
+
+9
+
+
+ 
+ 
+
+
+  0
+  
+
+
+
+ 
+ 
+
+Share
+
+
+
+
+
+
+
+      Say something nice to dtm…
+    
+
+
+
+        Post Comment
+      
+
+
+ 
+
+
+
+
+
+ 
+ 
+
+2
+
+
+
+ You can check out Adthrive - https://www.adthrive.com and Mediavine - https://www.mediavine.com which are some of the top paying ad networks. However they do have some criteria to fulfil before your application gets accepted - e.g. quality/original content.
+Another alternative with less stringent criteria but which still pays better than adsense is Ezoic - https://www.ezoic.com.
+
+
+
+ 
+
+
+
+
+
+
+          TimOngTY
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+2
+
+
+
+ I can second Mediavine. I'm a publisher with them and have had a good experience and it pays quite well. It's a totally different level from Adsense.
+Apart from minimum sessions per month, they heavily care about where geographically your audience is. Since you said the traffic is from the US, I could imagine you would make big money through Mediavine.
+There's a guy in the Mediavine FB group who literally pulls like 10 grand PER DAY. I think he runs some kind of dating website.
+So yeah, 100% check out Mediavine. Great support and super transparent company. Bootstrapped, too.
+
+
+
+ 
+
+
+
+
+
+
+          momoko
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ I went ahead and applied to mediavine 👀
+
+
+
+ 
+
+
+
+
+
+
+          dtm
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+2
+
+
+
+ There are way, way better platforms than AdSense for such websites. Try with native ads (like Outbrain). Also try Media.net. Also, 20% of your pages prob get 80% of the revenue. Try placing a CPA offer (a good search engine to find a relevant one is AffPlus.com), etc.
+
+
+
+ 
+
+
+
+
+
+
+          zerotousers
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ Hi! I couldn't find any rules so I hope I will not be banned for my message. As there is no option to send private message here, I'd like to invite webmasters who are interested in monetizing their inventory to pm me via Discord Tateviks#7161 or Skype live:.cid.d7f744a8359a453f . I'd like to buy your traffic.
+
+
+
+ 
+
+
+
+
+
+
+          Ms_Tina
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ Reach out to companies who may paid direct for placed ads. Make the spots exclusive. Do you have a mailing list? Sell ads on there. Grow the mailing list quicker by giving something away in exchange for the email.....web users love a freebie.
+
+
+
+ 
+
+
+
+
+
+
+          Rtg123
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ Congrats for those numbers! Try ezoic.com, conversion are better than adsense (with such number, you'll get approved quickly I guess)
+
+
+
+ 
+
+
+
+
+
+
+          Tim12
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ At that traffic level, you need to focus on Header Bidding AdTech monetization (Freestar, MonetizeMore, AdPushup etc), where they can compare the best GDN & Google Adx vs Programmatic networks CPM/CPC rates, so you gain the maximum on Programmatic level... I work with a few of the HB leaders if you want me to get you in touch ping me anytime.
+Then, you can focus on relevant brands outreaching & direct relationships building - those who advertise on Adwords or even those who appear on your Adsense ads?
+
+
+
+ 
+
+
+
+
+
+
+          Brandvertisor
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ Currently using AdSense and Arc.io
+
+
+
+ 
+
+
+
+
+
+
+          facha
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ I did briefly try arc.io, the problem for us is that you are required to use their paid CDN to be able to monetize. We used all 100GB in the free plan in the first day and our earnings paused afterwards.
+
+
+
+ 
+
+
+
+
+
+
+          dtm
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ Hi, Dean! It sounds like your website is what I am looking for. please contact me if you are open to testing other ad platforms. Skype live:.cid.d7f744a8359a453f
+
+
+
+ 
+
+
+
+
+
+
+          Ms_Tina
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ Hi there! You can always try our ad network - PurpleAds (https://purpleads.io).
+We have a single, non-intrusive format.
+We've started with a CPM model but then introduced CPC campaigns 2 weeks ago in order to allow our advertisers see better results.
+We have high-paying advertisers and working hard on bringing more as we speak.
+We get ~150M monthly impressions, and are about to sign a huge agreement with one of the leading ad networks in order to provide our publishers with 100% fill rate and high payouts.
+
+
+
+ 
+
+
+
+
+
+
+          yosidahan
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ I would be interested to know many ad clicks you get a month and average cost per click if you don't mind sharing. I'm using Adsense on my personal blog and I'm always interested in how other sites are doing with Adsense.
+
+
+
+ 
+
+
+
+
+
+
+          timleland
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ Around 15k clicks /mo at 0.17 cpc
+
+
+
+ 
+
+
+
+
+
+
+          dtm
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+1
+
+
+
+ Thanks for sharing! I'm not at that many clicks but get around 0.56 cpc
+
+
+
+ 
+
+
+
+
+
+
+          timleland
+        
+
+
+
+
+
+·
+          3 years ago
+
+
+·
+
+              Reply
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+    Trending on Indie Hackers
+  
+
+
+
+
+
+              Hitting $20k MRR in 6 months without marketing
+            
+
+ 
+
+
+
+
+              20 comments
+               
+ 
+
+
+
+
+
+
+
+
+              Should I continue building this product?
+            
+
+ 
+
+
+
+
+              16 comments
+               
+ 
+
+
+
+
+
+
+
+
+              From Layoff to $3K MRR: A 10-Day Challenge Success Story
+            
+
+ 
+
+
+
+
+              14 comments
+               
+ 
+
+
+
+
+
+
+
+
+              "All I need is a dry place, a laptop, and the internet to be happy."
+            
+
+ 
+
+
+
+
+              14 comments
+               
+ 
+
+
+
+
+
+
+
+
+              I created a website using no code at all
+            
+
+ 
+
+
+
+
+              14 comments
+               
+ 
+
+
+
+
+
+
+
+
+              I suck at design—How I make somewhat beautiful logos for free in 5 min
+            
+
+ 
+
+
+
+
+              13 comments
+               
+ 
+
+
+
+
+
+
+
+
+
+
+
+Stay informed as an indie hacker.
+Market insights that help you start and grow your business.
+
+
+ 
+
+
+
+
+
+ 
+ 
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+by
+
+        @csallen
+      
+
+
+      Learn from the founders behind hundreds of profitable online businesses, and connect with others who are starting and growing their own companies.
+    
+
+© Indie Hackers, Inc.
+·
+FAQ
+·
+Terms
+·
+Privacy
+·
+Cookie Settings/
+      Policy
+·
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+ 
+ 
+
+
+
+
+
+
+Community
+
+
+Groups
+Meetups
+Top Today
+Top This Week
+Top This Month
+
+          Join
+           
+ 
+
+
+
+
+
+
+Products
+
+
+All Products
+Highest Revenue
+Side Projects
+Self-Funded
+
+        Add Yours
+         
+ 
+
+
+
+
+
+
+Learn
+
+
+Explore
+Start Here
+Podcasts
+
+        Contribute
+         
+ 
+
+
+
+
+
+
