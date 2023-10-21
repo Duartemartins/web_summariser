@@ -12,7 +12,7 @@ from datetime import timedelta
 import uuid
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
-
+from flask import send_from_directory
 
 
 
@@ -81,7 +81,9 @@ def use_api():
     return 'Using API key: ' + api_key
 
 
-
+@app.route('/ads.txt')
+def serve_ads_txt():
+    return send_from_directory('static', 'ads.txt')
 
 @app.route('/fetch_text', methods=['POST'])
 def fetch_text():
