@@ -9,9 +9,26 @@ from tenacity import RetryError
 from openai.error import AuthenticationError
 import openai
 from datetime import timedelta
+import uuid
+from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
+
+
+
 
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = os.environ.get('SECRET_KEY')
+
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///summaries.db'
+db = SQLAlchemy(app)
+migrate = Migrate(app, db)
+class Summary(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    url = db.Column(db.String(512), unique=True, nullable=False)
+    summary_text = db.Column(db.Text, nullable=False)
+
+with app.app_context():
+    db.create_all()
 
 app.config['SESSION_COOKIE_SECURE'] = True
 app.config['SESSION_COOKIE_HTTPONLY'] = True
@@ -91,10 +108,19 @@ def fetch_text():
         query_engine = index.as_query_engine()
         summary_response = str(query_engine.query("Provide a concise summary of the key points in the text."))
 
+        # Save to database
+        new_summary = Summary(url=web_url, summary_text=summary_response)
+        db.session.add(new_summary)
+        db.session.commit()
+
         return jsonify(success=True, summary=summary_response)
     except requests.RequestException as e:
         return jsonify(success=False, error=str(e)), 500
     
+@app.route('/summary/<unique_id>')
+def show_summary(unique_id):
+    summary = fetch_summary_from_db(unique_id)
+    return render_template('summary_page.html', summary=summary)
 
 @app.after_request
 def add_security_headers(response):
