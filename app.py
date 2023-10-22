@@ -13,28 +13,30 @@ import uuid
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 from flask import send_from_directory
-
-
+from urllib.parse import unquote
+from sqlalchemy import text
+from sqlalchemy.exc import IntegrityError
 
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = os.environ.get('SECRET_KEY')
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///summaries.db'
+if os.environ.get("FLASK_ENV") == "production":
+    app.config.from_object("config.ProductionConfig")
+else:
+    app.config.from_object("config.DevelopmentConfig")
+
 db = SQLAlchemy(app)
-migrate = Migrate(app, db)
+
 class Summary(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     url = db.Column(db.String(512), unique=True, nullable=False)
     summary_text = db.Column(db.Text, nullable=False)
 
-with app.app_context():
-    db.create_all()
 
-app.config['SESSION_COOKIE_SECURE'] = True
-app.config['SESSION_COOKIE_HTTPONLY'] = True
-app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'
-app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(minutes=5)
 
+
+
+migrate = Migrate(app, db)
 
 class UrlForm(Form):
     web_url = StringField('Web URL', [validators.URL(), validators.DataRequired()])
@@ -42,13 +44,23 @@ class UrlForm(Form):
 @app.route('/', methods=['GET', 'POST'])
 def index():
     if request.method == 'POST':
+        web_url = request.form.get('web_url')  # Get the submitted URL
         api_key = request.form.get('api_key')
-        if not api_key:
-            return render_template('index.html', error='API Key is required')
-        # Store the API key in session for subsequent requests
-        session['api_key'] = api_key
-        return redirect(url_for('use_api'))
+
+        if web_url:
+            existing_summary = Summary.query.from_statement(text("SELECT * FROM Summary WHERE url = :url")).params(url=web_url).first()
+            if existing_summary:
+                return redirect(url_for('show_summary', url_from_route=web_url))  # Redirect if summary exists
+
+        if api_key:
+            if not api_key:
+                return render_template('index.html', error='API Key is required')
+            # Store the API key in session for subsequent requests
+            session['api_key'] = api_key
+            return redirect(url_for('use_api'))
+
     return render_template('index.html')
+
 
 
 @app.route('/use_api', methods=['POST'])
@@ -85,20 +97,28 @@ def use_api():
 def serve_ads_txt():
     return send_from_directory('static', 'ads.txt')
 
+
+
 @app.route('/fetch_text', methods=['POST'])
 def fetch_text():
     web_url = request.form.get('web_url')
     if not web_url:
         return jsonify(success=False, error='Webpage URL is required'), 400
+    
+    # Check if URL already exists in the database
+    existing_summary = Summary.query.from_statement(text("SELECT * FROM Summary WHERE url = :url")).params(url=web_url).first()
+    if existing_summary:
+        return jsonify(success=True, summary=existing_summary.summary_text)
+    
     try:
         response = requests.get(web_url)
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
-        text = soup.get_text()
+        page_text = soup.get_text()
 
         # Save text to a file
         with open('./data/webpage.txt', 'w', encoding='utf-8') as file:
-            file.write(text)
+            file.write(page_text)
 
         # Load documents
         documents = SimpleDirectoryReader('./data').load_data()
@@ -116,13 +136,36 @@ def fetch_text():
         db.session.commit()
 
         return jsonify(success=True, summary=summary_response)
+
     except requests.RequestException as e:
         return jsonify(success=False, error=str(e)), 500
+    except IntegrityError:
+        db.session.rollback()
+        return jsonify(success=False, error='Unique constraint failed'), 500
+
     
-@app.route('/summary/<unique_id>')
-def show_summary(unique_id):
-    summary = fetch_summary_from_db(unique_id)
-    return render_template('summary_page.html', summary=summary)
+
+def fetch_summary_from_db(url_from_route):
+    # Query the Summary table to get the entry with the given url
+    # summary_obj = Summary.query.filter(Summary.url.like(f"%{url_from_route}%")).first()
+    summary_obj = Summary.query.from_statement(text("SELECT * FROM Summary WHERE url = :url")).params(url=url_from_route).first()
+
+
+
+    # If the entry exists, return its content, else return None
+    if summary_obj:
+        return summary_obj.summary_text
+    else:
+        return None
+
+@app.route('/summary/<path:url_from_route>')
+def show_summary(url_from_route):
+    summary_text = fetch_summary_from_db(url_from_route)
+    if summary_text is not None:
+        return render_template('summary_page.html', summary=summary_text, url=url_from_route)
+    else:
+        return "Summary not found"  # Handle this case as you see fit
+
 
 @app.after_request
 def add_security_headers(response):
@@ -133,4 +176,5 @@ def add_security_headers(response):
     return response
 
 if __name__ == '__main__':
+    print("URL Map:", app.url_map)
     app.run(port=5000)
