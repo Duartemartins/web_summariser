@@ -20,7 +20,7 @@ from sqlalchemy.exc import IntegrityError
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = os.environ.get('SECRET_KEY')
 
-if os.environ.get("FLASK_ENV") == "production":
+if os.environ.get("FLASK_ENV") == "Production":
     app.config.from_object("config.ProductionConfig")
 else:
     app.config.from_object("config.DevelopmentConfig")
