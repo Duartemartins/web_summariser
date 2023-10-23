@@ -19,7 +19,7 @@ from sqlalchemy.exc import IntegrityError
 from flask_sitemap import Sitemap
 from flask import url_for
 from urllib.parse import quote
-
+from datetime import datetime
 
 
 app = Flask(__name__, static_url_path='/static')
@@ -176,11 +176,7 @@ def show_summary(url_from_route):
             "@context": "https://schema.org",
             "@type": "Article",
             "headline": "Summary for " + url_from_route,
-            "datePublished": "2023-01-01",
-            "author": {
-                "@type": "Person",
-                "name": "Author Name"
-            }
+            "datePublished": current_date,
         }
         return render_template('summary_page.html', summary=summary_text, url=url_from_route, summary_json_ld=summary_json_ld)
     else:
