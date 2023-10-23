@@ -20,6 +20,8 @@ from flask_sitemap import Sitemap
 from flask import url_for
 from urllib.parse import quote
 
+
+
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = os.environ.get('SECRET_KEY')
 
@@ -170,9 +172,20 @@ def fetch_summary_from_db(url_from_route):
 def show_summary(url_from_route):
     summary_text = fetch_summary_from_db(url_from_route)
     if summary_text is not None:
-        return render_template('summary_page.html', summary=summary_text, url=url_from_route)
+        summary_json_ld = {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": "Summary for " + url_from_route,
+            "datePublished": "2023-01-01",
+            "author": {
+                "@type": "Person",
+                "name": "Author Name"
+            }
+        }
+        return render_template('summary_page.html', summary=summary_text, url=url_from_route, summary_json_ld=summary_json_ld)
     else:
         return "Summary not found"  # Handle this case as you see fit
+
 
 @ext.register_generator
 def show_summary():
