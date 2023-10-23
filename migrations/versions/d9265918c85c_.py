@@ -7,6 +7,7 @@ Create Date: 2023-10-21 19:24:11.956090
 """
 from alembic import op
 import sqlalchemy as sa
+from sqlalchemy.exc import OperationalError
 
 
 # revision identifiers, used by Alembic.
