@@ -16,6 +16,9 @@ from flask import send_from_directory
 from urllib.parse import unquote
 from sqlalchemy import text
 from sqlalchemy.exc import IntegrityError
+from flask_sitemap import Sitemap
+from flask import url_for
+from urllib.parse import quote
 
 app = Flask(__name__, static_url_path='/static')
 app.secret_key = os.environ.get('SECRET_KEY')
@@ -33,13 +36,15 @@ class Summary(db.Model):
     summary_text = db.Column(db.Text, nullable=False)
 
 
-
+ext = Sitemap(app=app)
 
 
 migrate = Migrate(app, db)
 
 class UrlForm(Form):
     web_url = StringField('Web URL', [validators.URL(), validators.DataRequired()])
+
+
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -61,7 +66,10 @@ def index():
 
     return render_template('index.html')
 
-
+@ext.register_generator
+def index():
+    # URL pattern for the index route
+    yield 'index', {}
 
 @app.route('/use_api', methods=['POST'])
 def use_api():
@@ -166,6 +174,13 @@ def show_summary(url_from_route):
     else:
         return "Summary not found"  # Handle this case as you see fit
 
+@ext.register_generator
+def show_summary():
+    for summary in Summary.query.all():
+        encoded_url = quote(summary.url, safe='')
+        yield 'show_summary', {'url_from_route': encoded_url}
+
+
 
 @app.after_request
 def add_security_headers(response):
@@ -175,7 +190,14 @@ def add_security_headers(response):
     response.headers['Content-Security-Policy'] = csp
     return response
 
+@app.route('/robots.txt')
+def robots_txt():
+    return send_from_directory(app.static_folder, 'robots.txt')
+
+
 
 if __name__ == '__main__':
     print("URL Map:", app.url_map)
     app.run(port=5000)
+
+
