@@ -171,9 +171,10 @@ def show_summary(url_from_route):
 def add_security_headers(response):
     csp = ("default-src 'self'; "
            "img-src 'self' https://cdn.buymeacoffee.com; "
-           "script-src 'self' 'unsafe-inline' https://cdnjs.buymeacoffee.com; ")
+           "script-src 'self' 'unsafe-inline' https://cdnjs.buymeacoffee.com https://www.googletagmanager.com https://cdn.prplads.com; ")
     response.headers['Content-Security-Policy'] = csp
     return response
+
 
 if __name__ == '__main__':
     print("URL Map:", app.url_map)
