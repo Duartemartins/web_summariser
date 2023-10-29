@@ -138,7 +138,7 @@ def fetch_text():
 
         # Query the index with a summary request
         query_engine = index.as_query_engine()
-        summary_response = str(query_engine.query("Provide a concise summary of the key points in the text."))
+        summary_response = str(query_engine.query("Provide an extensive summary of the key points in the text."))
 
         # Save to database
         new_summary = Summary(url=web_url, summary_text=summary_response)
@@ -171,6 +171,7 @@ def fetch_summary_from_db(url_from_route):
 @app.route('/summary/<path:url_from_route>')
 def show_summary(url_from_route):
     summary_text = fetch_summary_from_db(url_from_route)
+    current_date = datetime.now().isoformat()
     if summary_text is not None:
         summary_json_ld = {
             "@context": "https://schema.org",
@@ -193,9 +194,9 @@ def show_summary():
 
 @app.after_request
 def add_security_headers(response):
-    csp = ("default-src 'self'; "
+    csp = ("default-src *; style-src 'self'; "
            "img-src 'self' https://cdn.buymeacoffee.com; "
-           "script-src 'self' 'unsafe-inline' https://cdnjs.buymeacoffee.com https://www.googletagmanager.com https://cdn.prplads.com; ")
+           "script-src 'self' 'unsafe-inline' https://cdnjs.buymeacoffee.com  https://api.purpleads.io https://region1.google-analytics.com https://www.googletagmanager.com https://cdn.prplads.com; ")
     response.headers['Content-Security-Policy'] = csp
     return response
 
