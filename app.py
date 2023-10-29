@@ -194,9 +194,11 @@ def show_summary():
 
 @app.after_request
 def add_security_headers(response):
-    csp = ("default-src *; style-src 'self'; "
-           "img-src 'self' https://cdn.buymeacoffee.com; "
-           "script-src 'self' 'unsafe-inline' https://cdnjs.buymeacoffee.com  https://api.purpleads.io https://region1.google-analytics.com https://www.googletagmanager.com https://cdn.prplads.com; ")
+    csp = ("default-src 'self'; "  # Lock down all content to only come from your domain by default
+           "style-src * 'unsafe-inline'; "  # Allow inline styles
+           "img-src https: data:; "  # Allow images from https://
+           "script-src 'self' 'unsafe-inline' https://cdnjs.buymeacoffee.com https://api.purpleads.io https://region1.google-analytics.com https://www.googletagmanager.com https://cdn.prplads.com; "  # Allow scripts from listed domains
+    )
     response.headers['Content-Security-Policy'] = csp
     return response
 
