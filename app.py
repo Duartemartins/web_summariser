@@ -194,7 +194,7 @@ def show_summary():
 
 @app.after_request
 def add_security_headers(response):
-    csp = ("default-src 'self'; "  # Lock down all content to only come from your domain by default
+    csp = ("default-src 'self' https://api.purpleads.io https://region1.google-analytics.com;; "  # Lock down all content to only come from your domain by default
            "style-src * 'unsafe-inline'; "  # Allow inline styles
            "img-src https: data:; "  # Allow images from https://
            "script-src 'self' 'unsafe-inline' https://cdnjs.buymeacoffee.com https://api.purpleads.io https://region1.google-analytics.com https://www.googletagmanager.com https://cdn.prplads.com; "  # Allow scripts from listed domains
