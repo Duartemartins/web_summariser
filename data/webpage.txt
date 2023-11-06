@@ -2,7 +2,6 @@
 
 
 
-Crisis of the Third Century - Wikipedia
 
 
 
@@ -15,6 +14,7 @@ Crisis of the Third Century - Wikipedia
 
 
 
+Text Analyser | DeepDive
 
 
 
@@ -40,69 +40,72 @@ Crisis of the Third Century - Wikipedia
 
 
 
-Jump to content
 
 
 
+DeepDive
 
 
 
+Get
+                    started
 
-Main menu
+Open main menu
 
 
 
 
 
-Main menu
-move to sidebar
-hide
 
 
 
-		Navigation
-	
 
 
-Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
 
+Home
 
 
+Product
 
 
-		Contribute
-	
 
 
-HelpLearn to editCommunity portalRecent changesUpload file
+                            Tools
+                            
 
 
 
 
 
-Languages
 
-Language links are at the top of the page across from the title.
 
+Text
+                                        Analyser
 
 
+Correlation
+                                        Matrix Generator
 
 
+Looker Studio Connectors
 
 
+Web Summariser
 
 
 
 
 
 
+Pricing
 
 
+Blog
 
 
+Contact
 
 
-Search
 
 
 
@@ -112,41 +115,63 @@ Search
 
 
 
+            Text Analyser
 
+            The Text Analyser provides real-time data, including word count, readability score, and sentiment analysis. Plus, you'll get a list of the top 5 most frequently used words along with their densities. Are you keen on examining your text in even greater depth? You can conveniently download a table of all words organised by frequency.
 
-Search
+Crafting the perfect tweet? The Text Analyser is perfect for you. Monitor your word count to stay within Twitter's limit, and use the sentiment score to gauge the tone of your message. Making sure your tweets hit the right note has never been easier.
 
+Analyse customer feedback, evaluate the readability of your technical documents, or optimise your content for SEO with ease. All you have to do is input your text and watch the comprehensive analytics unfold in real-time.
+        
 
+            Get insights
+            
 
 
 
 
+            Exlpore more tools
+        
 
 
-Create accountLog in
 
 
 
 
+Word count: 0
+Readability Score: 0
+Sentiment Score: 0
+Top 5 most frequent words, with density:
 
+Download CSV with
+                    full results
+The text box is empty. Please enter some
+                    text.
+Copy to
+                    Clipboard
 
-Personal tools
 
 
 
 
 
- Create account Log in
 
 
 
+Sign
+                up
+                for our newsletter
+Stay
+                up to
+                date with the roadmap progress, announcements and exclusive discounts feel free to sign up with your
+                email.
 
 
-		Pages for logged out editors learn more
 
+Email
+                            address
 
 
-ContributionsTalk
 
 
 
@@ -155,9 +180,12 @@ ContributionsTalk
 
 
 
+Subscribe
 
 
 
+                    We care about the protection of your data. Read our Privacy
+                        Policy.
 
 
 
@@ -168,52 +196,60 @@ ContributionsTalk
 
 
 
+DeepDive
 
 
 
 
+Resources
 
 
-Contents
-move to sidebar
-hide
+Blog
 
 
+eBook Coming
+                                Soon
 
 
-(Top)
 
 
 
 
 
-1History
 
+Job
+                                Board Coming
+                                Soon
 
 
+Newsletter
+                                Coming
+                                Soon
 
 
 
 
-2Causes
+Legal
 
 
+Privacy Policy
 
-Toggle Causes subsection
 
+Terms & Conditions
 
 
 
 
-2.1The problem of succession and civil war
 
 
 
+© 2023 DeepDive. All Rights
+                Reserved.
+            
 
 
 
 
-2.2Natural disasters
 
 
 
@@ -221,7 +257,6 @@ Toggle Causes subsection
 
 
 
-2.3Foreign invasions
 
 
 
@@ -231,1583 +266,12 @@ Toggle Causes subsection
 
 
 
-3Economic impact
 
 
 
-Toggle Economic impact subsection
 
 
 
-
-
-3.1Breakdown of the internal trade network
-
-
-
-
-
-
-
-3.2Increased militarization
-
-
-
-
-
-
-
-
-
-4Emperors
-
-
-
-Toggle Emperors subsection
-
-
-
-
-
-4.1Non-dynastic
-
-
-
-
-
-
-
-4.2Gordian dynasty
-
-
-
-
-
-
-
-4.3Non-dynastic
-
-
-
-
-
-
-
-4.4Decian dynasty
-
-
-
-
-
-
-
-4.5Non-dynastic
-
-
-
-
-
-
-
-4.6Valerian dynasty
-
-
-
-
-
-
-
-4.7Claudian dynasty
-
-
-
-
-
-
-
-4.8Non-dynastic
-
-
-
-
-
-
-
-4.9Tacitan dynasty
-
-
-
-
-
-
-
-4.10Non-dynastic
-
-
-
-
-
-
-
-4.11Caran dynasty
-
-
-
-
-
-
-
-
-
-5See also
-
-
-
-
-
-
-
-6Notes
-
-
-
-
-
-
-
-7Citations
-
-
-
-
-
-
-
-8General bibliography
-
-
-
-
-
-
-
-9Further reading
-
-
-
-
-
-
-
-
-
-
-
-
-
-Toggle the table of contents
-
-
-
-
-
-Toggle the table of contents
-
-
-
-
-
-
-
-Crisis of the Third Century
-
-
-
-47 languages
-
-
-
-
-AlemannischالعربيةAsturianuAzərbaycancaБеларускаяБългарскиBrezhonegCatalàČeštinaDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançaisGalego한국어ՀայերենHrvatskiBahasa IndonesiaItalianoעבריתLatinaLietuviųLingua Franca NovaमराठीBahasa MelayuNederlands日本語Norsk bokmålOccitanPolskiPortuguêsРусскийSimple EnglishSlovenščinaСрпски / srpskiSrpskohrvatski / српскохрватскиSuomiTagalogไทยTürkçeУкраїнськаاردوTiếng Việt中文
-
-Edit links
-
-
-
-
-
-
-
-
-
-
-
-ArticleTalk
-
-
-
-
-
-English
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ReadEditView history
-
-
-
-
-
-
-
-Tools
-
-
-
-
-
-Tools
-move to sidebar
-hide
-
-
-
-		Actions
-	
-
-
-ReadEditView history
-
-
-
-
-
-		General
-	
-
-
-What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLWikidata item
-
-
-
-
-
-		Print/export
-	
-
-
-Download as PDFPrintable version
-
-
-
-
-
-		In other projects
-	
-
-
-Wikimedia Commons
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-From Wikipedia, the free encyclopedia
-
-
-Roman Imperial government crisis (235–284 AD)
-You can help expand this article with text translated from the corresponding article in German.  (November 2015) Click [show] for important translation instructions.
-View a machine-translated version of the German article.
-Machine translation, like DeepL or Google Translate, is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.
-Consider adding a topic to this template: there are already 8,917 articles in the main category, and specifying|topic= will aid in categorization.
-Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.
-You must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. A model attribution edit summary is Content in this edit is translated from the existing German Wikipedia article at [[:de:Reichskrise des 3. Jahrhunderts]]; see its history for attribution.
-You should also add the template {{Translated|de|Reichskrise des 3. Jahrhunderts}} to the talk page.
-For more guidance, see Wikipedia:Translation.
-Crisis of the Third CenturyThe divided Empire in 271Date235–284 (c. 49 years)LocationRoman EmpireResult
-Roman victory
-
-Roman emperor Aurelian conquers both the Palmyrene and Gallic Empires
-The crisis ends with the ascension of Diocletian and his implementation of reforms in 284
-Start of the Diocletianic Persecution
-Beginning of the TetrarchyTerritorialchanges
-Reunification of the Palmyrene and Gallic Empires into the Roman Empire
-Loss of parts of the Agri Decumates and Syria
-Dacia abandonedBelligerents
-Roman Empire[a]
-Gallic EmpirePalmyrene Empire
-Sasanian EmpireGothsAlemanniVandalsCarpiansCommanders and leaders
-Gallienus XClaudius Gothicus #Aurelian XDiocletian
-Postumus XMarius XVictorinus XTetricus I Odaenathus XVaballathus Zenobia Antiochus 
-Shapur ICniva †
-The Crisis of the Third Century, also known as the Military Anarchy[1] or the Imperial Crisis (235–284), was a period in which the Roman Empire nearly collapsed. The crisis ended due to the military victories of Aurelian and with the ascension of Diocletian and his implementation of reforms in 284.
-The crisis began in 235 with the assassination of Emperor Severus Alexander by his own troops. During the following 50-year period, the empire saw the combined pressures of barbarian invasions and migrations into Roman territory, civil wars, peasant rebellions and political instability, with multiple usurpers competing for power. This led to the debasement of currency and economic collapse, with the Plague of Cyprian contributing to the disorder. Roman troops became more reliant over time on the growing influence of the barbarian mercenaries known as foederati. Roman commanders in the field, although nominally working for Rome, became increasingly independent. 
-By 268, the empire had split into three competing states: the Gallic Empire (including the Roman provinces of Gaul, Britannia and, briefly, Hispania); the Palmyrene Empire (including the eastern provinces of Syria Palaestina and Aegyptus); and, between them, the Italian-centered Roman Empire proper. 
-There were at least 26 claimants to the title of emperor, mostly prominent Roman army generals, who assumed imperial power over all or part of the empire. The same number of men became accepted by the Roman Senate as emperor during this period and so became legitimate emperors. Later, Aurelian (270–275) reunited the empire militarily. The crisis ended with Diocletian and his restructuring of Roman imperial government in 284. This helped to stabilize the empire economically and militarily for a further 150 years.
-The crisis resulted in such profound changes in the empire's institutions, society, economic life, and religion that it is increasingly seen by most historians as defining the transition between the historical periods of classical antiquity and late antiquity.[2]
-
-
-History[edit]
-Further information: Alemanni § Conflicts with the Roman Empire
-This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (October 2015) (Learn how and when to remove this template message)
-Roman imperial dynasties
-Crisis of the Third Century
-Chronology
-Barracks Emperors 235–284
-
-Gordian dynasty 238–244
-
-Valerian dynasty 253–261
-
-Gallic Emperors 260–274
-
-Illyrian Emperors 268–284
-
-Caran dynasty 282–285
-
-Britannic Emperors 286–297
-
-
-Preceded bySeveran dynasty
-Followed byDiocletian and the Tetrarchy
-
-
-vteCrisis of the Third CenturyReign of Maximinus Thrax (235–238)
-Death of Alexander Severus (235)
-Harzhorn (c. 235)
-Usurpation of Magnus (c. 235)
-Usurpation of Quartinus (235)
-Year of the Six Emperors (238)
-
-Revolt of Gordian I & Gordian II (238)
-Battle of Carthage (238)
-Siege of Aquileia (238)
-Reign of Pupienus & Balbinus (238)
-Invasion of the Carpi (238–239)
-Reign of Gordian III (238–244)
-
-Sabinianus Revolt (240)
-Fall of Hatra (241)
-Resaena (243)
-Misiche (244)
-Reign of Philip the Arab (244–249)
-
-Invasion of the Carpi (245–247)
-Secular Games of 248 (248)
-Usurpation of Sponsianus (240s)
-Usurpation of Pacatianus (248)
-Usurpation of Jotapianus (249)
-Usurpation of Silbannacus (249 or 253)
-Decius' Rebellion (249)
-Verona and death of Philip & Philip II (249)
-Reign of Decius (249–251)
-
-Plague of Cyprian (250–270)
-Decian persecution (250–251)
-Gothic invasion of Cniva (250–251)
-Carpi invasion of Dacia (250)
-Nicopolis ad Istrum (250)
-Beroe (250)
-Philippopolis (250)
-Usurpation of Julius Priscus (251)
-Abritus and death of Decius and Etruscus (251)
-Reign of Trebonianus Gallus (251–253)
-
-Death of Hostilian (251)
-Mariades' Revolt (252)
-Nisibis (252)
-Barbalissos (253)
-Interamna Nahars (c 253)
-Reign of Aemilianus (253)
-
-Antioch (253)
-Reign of Valerian and Gallienus (253–260)
-
-Thessalonica (254)
-Thermopylae (254)
-Dura-Europos (256)
-Gothic invasion (256–257)
-Invasion of Shapur (258)
-Invasion of the Alemanni (258–260 approx)
-Mediolanum (259)
-Scythian invasion (259–260)
-Edessa (260)
-Reign of Gallienus (260–268)
-
-Caesarea (260)
-Usurpation of Ingenuus (260)
-Usurpation of Regalianus (260)
-Usurpation of Macrianus Major (c. 259–261)
-Gallic Empire (260–274)
-Death of Saloninus (260)
-Roxolani Invasion of Pannonia (260)
-Campaigns of Odaenathus (260–267)
-Usurpation of Quietus (261)
-Usurpation of Balista (261)
-Usurpation of Valens Thessalonicus (261)
-Usurpation of Lucius Calpurnius Piso Frugi (261)
-Usurpation of Macrianus Minor (261)
-Pannonian Rebellion (261)
-Usurpation of Mussius Aemilianus (261–262)
-Postumus' Campaign against the Franks (262)
-Postumus' Campaign against the Alamanni (263)
-Ctesiphon (263)
-Scythian Invasion (265–266)
-Assassination of Odaenathus (267)
-Usurpation of Maeonius (266–267)
-Scythian Invasion (267–269)
-Heruli Raids (267)
-Athens (267)
-Usurpation of Acilius Aureolus (268)
-Reign of Claudius Gothicus (268–270)
-
-Usurpation of Laelianus (269)
-Reign of Marcus Aurelius Marius (269)
-Augustodunum Haeduorum
-Naissus (268/269)
-Lake Benacus (268 or 269)
-Capture of Athens (269)
-Palmyrene Empire (270–273)
-Bostra (270)
-Palmyrene invasion of Egypt (270)
-Vandal Invasion (270)
-Reign of Aurelian (270–275)
-
-Usurpation of Victorinus Junior (271)
-Junthungi Invasion (271)
-Domitian II (271)
-Tetricus I & Tetricus II (271–274)
-Rebellion of Felicissimus (270s)
-Placentia (271)
-Fano (271)
-Pavia (271)
-Tyana (272)
-Immae (272)
-Emesa (272)
-Razing of Palmyra (273)
-Usurpation of Faustinus (c. 273)
-Châlons (274)
-Reign of Tacitus (275-276)
-
-Gothic Invasion (276-277)
-Reign of Probus (276-282)
-
-Vandal Invasion (276-278)
-Sarmatian Invasion (278)
-Usurpation of Bonosus & Proculus (280)
-Usurpation of Julius Saturninus (280)
-Reign of Carus (282-283)
-
-Carus' invasion of the Sasanian Empire (283)
-Reign of Carinus (283-285)
-
-Usurpation of Julian of Pannonia (284-285)
-Margum (285)
-After the Roman Empire had been stabilized, once again, after the turmoil of the Year of the Five Emperors (193) in the reign of Septimius Severus, the later Severan dynasty lost more and more control.
-The army required larger and larger bribes to remain loyal.[3] Septimius Severus raised the pay of legionaries, and gave substantial donativum to the troops.[4][5] The large and ongoing increase in military expenditure caused problems for all of his successors.[6] His son Caracalla raised the annual pay and lavished many benefits on the army in accordance with the advice of his father to keep their loyalty,[7][8][9] and considered dividing the empire into eastern and western sectors with his brother Geta to reduce the conflict in their co-rule. But with the major influence of their mother, Julia Domna, this division of the empire was not possible.[10]
-Instead of warring in foreign lands, the Roman empire was increasingly put on the defensive by marauding enemies and civil wars. This cut off the essential source of income gained from plundering enemy countries, while opening up the Roman countryside to economic devastation from looters both foreign and domestic. Frequent civil wars contributed to depletion of the army's manpower, and drafting replacement soldiers strained the labour force further. Fighting on multiple fronts, increasing size and pay of the army, increasing cost of transport, populist "bread and circuses" political campaigns, inefficient and corrupt tax collection, unorganised budgeting, and paying off foreign nations for peace all contributed to financial crisis. The emperors responded by confiscating assets and supplies to combat the deficit.[11]
-The situation of the Roman Empire became dire in 235. Many Roman legions had been defeated during a previous campaign against Germanic peoples raiding across the borders, while the emperor Severus Alexander had been focused primarily on the dangers from the Sassanid Empire. Leading his troops personally, the emperor resorted to diplomacy and accepting tribute to pacify the Germanic chieftains quickly, rather than military conquest. According to Herodian this cost Severus Alexander the respect of his troops, who may have felt that more severe punishment was required for the tribes that had intruded on Rome's territory.[12] The troops assassinated Severus Alexander and proclaimed the new emperor to be Maximinus Thrax, commander of one of the legions present.
-Maximinus was the first of the barracks emperors – rulers who were elevated by the troops without having any political experience, a supporting faction, distinguished ancestors, or a hereditary claim to the imperial throne. As their rule rested on military might and generalship, they operated as warlords reliant on the army to maintain power. Maximinus continued the campaigns in Germania but struggled to exert his authority over the whole empire. The Senate was displeased at having to accept a peasant as Emperor.[13] This precipitated the chaotic Year of the Six Emperors during which all of the original claimants were killed: in 238 a revolt broke out in Africa led by Gordian I and Gordian II,[14] which was soon supported by the Roman Senate,[15] but this was quickly defeated with Gordian II killed and Gordian I committing suicide. The Senate, fearing Imperial wrath,[16] raised two of their own as co-Emperors, Pupienus and Balbinus, with Gordian I's grandson Gordian III as Caesar.[17] Maximinus marched on Rome but was assassinated by his Legio II Parthica, and subsequently Pupienus and Balbinus were murdered by the Praetorian Guard.
-In the following years, numerous generals of the Roman army fought each other for control of the empire and neglected their duties of defending it from invasion. There were frequent raids across the Rhine and Danube frontier by foreign tribes, including the Carpians, Goths, Vandals, and Alamanni, and attacks from Sassanids in the east. Climate changes and a sea level rise disrupted the agriculture of what is now the Low Countries, forcing tribes residing in the region to migrate into Roman lands.[18] Further disruption arose in 251, when the Plague of Cyprian (possibly smallpox) broke out. This plague caused large-scale death, severely weakening the empire.[19][20] The situation was worsened in 260 when the emperor Valerian was captured in battle by the Sassanids (he later died in captivity).
-Throughout the period, numerous usurpers claimed the imperial throne. In the absence of a strong central authority, the empire broke into three competing states. The Roman provinces of Gaul, Britain, and Hispania broke off to form the Gallic Empire in 260. The eastern provinces of Syria, Palestine, and Aegyptus also became independent as the Palmyrene Empire in 267. The remaining provinces, centered on Italy, stayed under a single ruler but now faced threats on every side.[21]
-
-Gothic raids in the 3rd century
-An invasion of Macedonia and Greece by Goths, who had been displaced from their lands on the Black Sea, was defeated by emperor Claudius II Gothicus at the Battle of Naissus in 268 or 269. Historians see this victory as the turning point of the crisis. In its aftermath, a series of tough, energetic barracks emperors were able to reassert central authority. Further victories by Claudius Gothicus drove back the Alamanni and recovered Hispania from the Gallic Empire. He died of the plague in 270 and was succeeded by Aurelian, who had commanded the cavalry at Naissus. Aurelian reigned (270–275) through the worst of the crisis, gradually restoring the empire. He defeated the Vandals, Visigoths, Palmyrene Empire, and finally the remainder of the Gallic Empire. By late 274, the Roman Empire had been reunited into a single entity. However, Aurelian was assassinated in 275, sparking a further series of competing emperors with short reigns. The situation did not stabilize until Diocletian, himself a barracks emperor, took power in 284.[citation needed]
-More than a century would pass before Rome again lost military ascendancy over its external enemies. However, dozens of formerly thriving cities, especially in the Western Empire, had been ruined. Their populations dead or dispersed, these cities could not be rebuilt, due to the economic breakdown caused by constant warfare. The economy was also crippled by the breakdown in trading networks and the debasement of the currency. Major cities and towns, including Rome itself, had not needed fortifications for many centuries, but now surrounded themselves with thick walls.[22]
-Fundamental problems with the empire still remained. The right of imperial succession had never been clearly defined, which was a factor in the continuous civil wars as competing factions in the military, Senate, and other parties put forward their favored candidate for emperor. The sheer size of the empire, which had been an issue since the late Roman Republic three centuries earlier, continued to make it difficult for a single ruler to effectively counter multiple threats at the same time. These continuing problems were addressed by the radical reforms of Diocletian, who broke the cycle of usurpation. He began by sharing his rule with a colleague, then formally established the Tetrarchy of four co-emperors in 293.[23] However the trend of civil war would continue after the abdication of Diocletian in the Civil wars of the Tetrarchy (306–324) until the rise of Constantine the Great as sole Emperor.[24] The empire survived until 476 in the West and until 1453 in the East.
-
-Causes[edit]
-The problem of succession and civil war[edit]
-From the beginning of the Principate there were no clear rules for the imperial succession, largely because the empire maintained the facade of a republic.[25]
-During the early Principate, the process for becoming an emperor relied on a combination of proclamation by the Senate, popular approval, and acceptance by the army, in particular the Praetorian Guard. A family connection to a previous emperor was beneficial, but it did not determine the issue in the way a formal system of hereditary succession would. From the Julio-Claudian dynasty onwards there was sometimes tension between the Senate's preferred choice and the army. As the Senatorial class declined in political influence and more generals were recruited from the provinces, this tension increased.
-Whenever the succession appeared uncertain, there was an incentive for any general with support of a sizable army to attempt to seize power, sparking civil war. The most recent example of this prior to the Crisis was the Year of the Five Emperors which resulted in the victory of Septimius Severus. After the overthrow of the Severan dynasty, for the rest of the 3rd century, Rome was ruled by a series of generals, coming into power through frequent civil wars which devastated the empire.[26]
-
-Natural disasters[edit]
-The first and most immediately disastrous of the natural disasters that the Roman Empire faced during the Third Century was the plague. The Antonine Plague that preceded the Crisis of the Third Century sapped manpower from Roman armies and proved disastrous for the Roman economy.[27] From 249 to 262, the Plague of Cyprian devastated the Roman Empire to such a degree that some cities, such as the city of Alexandria, experienced a 62% decline in population.[28] These plagues greatly hindered the Roman Empire's ability to ward off barbarian invasions but also factored into problems such as famine, with many farms becoming abandoned and unproductive.[29]
-A second and longer-term natural disaster that took place during the third century was the increased variability of weather. Drier summers meant less agricultural productivity and more extreme weather events led to agricultural instability. This could also have contributed to the increased barbarian pressure on Roman borders, as they too would have experienced the detrimental effects of climate change and sought to push inward to more productive areas of the Mediterranean region.[30]
-
-Foreign invasions[edit]
-Barbarian invasions against the Roman Empire in the 3rd century
-Barbarian invasions came in the wake of civil war, plague, and famine.  Distress caused in part by the changing climate led various barbarian tribes to push into Roman territory.  Other tribes coalesced into more formidable entities (notably the Alamanni and Franks), or were pushed out of their former territories by more dangerous peoples such as the Sarmatians (the Huns did not appear west of the Volga for another century).  Eventually, the frontiers were stabilized by the Illyrian Emperors. However, barbarian migrations into the empire continued in greater and greater numbers. Though these migrants were initially  closely monitored and assimilated, later tribes eventually entered the Roman Empire en masse with their weapons, giving only token recognition of Roman authority.[31]
-The defensive battles that Rome had to endure on the Danube since the 230s, however, paled in comparison to the threat the empire faced in the East. There, Sassanid Persia represented a far greater danger to Rome than the isolated attacks of Germanic tribes.[32] The Sassanids had in 224 and 226 overthrown the Parthian Arsacids, and the Persian King Ardashir I, who also wanted to prove his legitimacy through military successes, had already penetrated into Roman territory at the time of Severus Alexander, probably taking the strategically important cities of Nisibis and Carrhae in 235/236.[33]
-
-Economic impact[edit]
-This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed. (August 2017) (Learn how and when to remove this template message)
-Emperor Diocletian. With his rise to power in 284, the Crisis of the Third Century ended and gave rise to the Tetrarchy
-Internally, the empire faced hyperinflation caused by years of coinage devaluation.[34] This had started earlier under the Severan emperors who enlarged the army by one quarter,[35][self-published source?] and doubled the base pay of legionaries. As each of the short-lived emperors took power, they needed ways to raise money quickly to pay the military's "accession bonus" and the easiest way to do so was by inflating the coinage severely, a process made possible by debasing the coinage with bronze and copper.
-This resulted in runaway rises in prices, and by the time Diocletian came to power, the old coinage of the Roman Empire had nearly collapsed. Some taxes were collected in kind and values often were notional, in bullion or bronze coinage. Real values continued to be figured in gold coinage, but the silver coin, the denarius, used for 300 years, was gone (1 pound of gold = 40 gold aurei = 1,000 denarii = 4,000 sestertii).[citation needed] This currency had almost no value by the end of the third century, and trade was carried out without retail coinage.
-
-Breakdown of the internal trade network[edit]
-One of the most profound and lasting effects of the Crisis of the Third Century was the disruption of Rome's extensive internal trade network. Ever since the Pax Romana, starting with Augustus, the empire's economy had depended in large part on trade between Mediterranean ports and across the extensive road systems to the Empire's interior. Merchants could travel from one end of the empire to the other in relative safety within a few weeks, moving agricultural goods produced in the provinces to the cities, and manufactured goods produced by the great cities of the East to the more rural provinces.
-Large estates produced cash crops for export and used the resulting revenues to import food and urban manufactured goods. This resulted in a great deal of economic interdependence among the empire's inhabitants. The historian Henry St. Lawrence Beaufort Moss describes the situation as it stood before the crisis:
-
-Along these roads passed an ever-increasing traffic, not only of troops and officials but of traders, merchandise and even tourists. An interchange of goods between the various provinces rapidly developed, which soon reached a scale unprecedented in the previous history and not repeated until a few centuries ago. Metals mined in the uplands of Western Europe, hides, fleeces, and livestock from the pastoral districts of Britain, Spain, and the shores of the Black Sea, wine and oil from Provence and Aquitaine, timber, pitch and wax from South Russia and northern Anatolia, dried fruits from Syria, marble from the Aegean coasts, and – most important of all – grain from the wheat-growing districts of North Africa, Egypt, and the Danube Valley for the needs of the great cities; all these commodities, under the influence of a highly organized system of transport and marketing, moved freely from one corner of the Empire to the other.[36]
-With the onset of the Crisis of the Third Century, however, this vast internal trade network broke down. The widespread civil unrest made it no longer safe for merchants to travel as they once had, and the financial crisis that struck made exchange very difficult with the debased currency. This produced profound changes that, in many ways, foreshadowed the very decentralized economic character of the coming Middle Ages.[37]
-Large landowners, no longer able to successfully export their crops over long distances, began producing food for subsistence and local barter. Rather than import manufactured goods from the empire's great urban areas, they began to manufacture many goods locally, often on their own estates, thus beginning the self-sufficient "house economy" that would become commonplace in later centuries, reaching its final form in the manorialism of the Middle Ages. The common, free people of the Roman cities, meanwhile, began to move out into the countryside in search of food and better protection.[38]
-Made desperate by economic necessity, many of these former city dwellers, as well as many small farmers, were forced to give up hard-earned basic civil rights in order to receive protection from large land-holders. In doing so, they became a half-free class of Roman citizen known as coloni. They were tied to the land, and in later Imperial law, their status was made hereditary. This provided an early model for serfdom, the origins of medieval feudal society and of the medieval peasantry. The decline in commerce between the imperial provinces put them on a path toward increased self-sufficiency. Large landowners, who had become more self-sufficient, became less mindful of Rome's central authority, particularly in the Western Empire, and were downright hostile toward its tax collectors. The measure of wealth at this time began to have less to do with wielding urban civil authority and more to do with controlling large agricultural estates in rural regions since this guaranteed access to the only economic resource of real value – agricultural land and the crops it produced. The common people of the empire lost economic and political status to the land-holding nobility, and the commercial middle classes waned along with their trade-derived livelihoods. The Crisis of the Third Century thus marked the beginning of a long gradual process that would transform the ancient world of classical antiquity into the medieval one of the Early Middle Ages.[39]
-However, although the burdens on the population increased, especially the lower strata of the population, this cannot be generalized to the whole empire, especially since living conditions were not uniform. Although the structural integrity of the economy suffered from the military conflicts of that time and the inflationary episode of the 270s, it did not collapse, especially because of the complex regional differences. Recent research has shown that there were regions that prospered even further, such as Egypt, Africa and Hispania. But even for Asia Minor, which was directly affected by attacks, no general decline can be observed.[40] While commerce and the overall economy flourished in several regions, with several provinces not affected by hostilities, other provinces experienced some serious problems, as evidenced by personal hoards in the northwestern provinces of the empire. However, there can be no talk of a general economic crisis throughout the whole of Empire.[41]
-Even the Roman cities began to change in character. The large cities of classical antiquity slowly gave way to the smaller, walled cities that became common in the Middle Ages. These changes were not restricted to the third century, but took place slowly over a long period, and were punctuated with many temporary reversals. In spite of extensive reforms by later emperors, however, the Roman trade network was never able to fully recover to what it had been during the Pax Romana (27 BC – AD 180). This economic decline was far more noticeable and important in the western part of the empire, which was also invaded by barbarian tribes several times during the century. Hence, the balance of power clearly shifted eastward during this period, as evidenced by the choice of Diocletian to rule from Nicomedia in Asia Minor, putting his second in command, Maximian, in Milan. This would have a considerable impact on the later development of the empire with a richer, more stable eastern empire surviving the end of Roman rule in the west.[42]
-While imperial revenues fell, imperial expenses rose sharply. More soldiers, greater proportions of cavalry, and the ruinous expense of walling in cities all added to the toll. Goods and services previously paid for by the government were now demanded in addition to monetary taxes. The empire suffered from a crippling labour shortage. The steady exodus of both rich and poor from the cities and now-unprofitable professions forced Diocletian to use compulsion; conscription was made universal, most trades were made hereditary, and workers could not legally leave their jobs or travel elsewhere to seek better-paying ones. This included the unwanted middle-class civil service positions and under Constantine, the military. Constantine also tried to provide social programs for the poor to reduce the labour shortage.[43]
-
-Increased militarization[edit]
-All the barracks emperors based their power on the military and on the soldiers of the field armies, not on the Praetorians in Rome. Thus, Rome lost its role as the political center of the empire during the third century, although it remained ideologically important. In order to legitimize and secure their rule, the emperors of the third century needed above all military successes.[44]
-The centre of decision-making shifted away from Rome and to wherever the emperor was with his armies, typically, in the east. This led to the transfer of the capital to the four cities Milan, Trier, Nicomedia, and Sirmium, and then to Constantinople. The Senate ceased to be the main governing organ and instead members of the equestrian class who filled the military officer corps became increasingly prominent.[45]
-
-Emperors[edit]
-Main article: List of Roman emperors § Crisis of the Third Century (235–284)
-Several emperors who rose to power through acclamation of their troops attempted to create stability by giving their descendants the title of Augustus and so making them co-emperors who later succeeded to the throne after their death or on some occasions their relatives managed to become an emperor immediately after their death. This led to the creation of several brief dynasties.
-
-Non-dynastic[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Maximinus Thrax  CAESAR GAIVS IVLIVS VERVS MAXIMINVS AVGVSTVS 
-
-c. AD 173, Thracia
-
-Proclaimed emperor by Pannonian legions after Severus Alexander's assassination
-
-c. March 235 –  June 238
-
-June AD 238 (aged 65) Assassinated by his own troops
-
-3 years
-
-Gordian dynasty[edit]
-Main article: Gordian dynasty
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Gordian I CAESAR MARCVS ANTONIVS GORDIANVS SEMPRONIANVS AFRICANVS AVGVSTVS
-
-c. AD 159, Phrygia?
-
-Proclaimed emperor, whilst Pro-consul in Africa, during a revolt against Maximinus Thrax. Ruled jointly with his son Gordian II, and in opposition to Maximinus. Technically a usurper, but retrospectively legitimized by the accession of Gordian III
-
-c. March –  April 238
-
-April AD 238  Committed suicide upon hearing of the death of Gordian II
-
-22 days
-
-
-
-
-Gordian II  CAESAR MARCVS ANTONIVS GORDIANVS SEMPRONIANVS ROMANVS AFRICANVS AVGVSTVS
-
-c. AD 192, ?
-
-Proclaimed emperor, alongside father Gordian I, in opposition to Maximinus by act of the Senate
-
-c. March – April 238
-
-April AD 238  Killed during the Battle of Carthage, fighting a pro-Maximinus army
-
-22 days
-
-
-
-
-Pupienus (non-dynastic)  CAESAR MARCVS CLODIVS PVPIENVS MAXIMVS AVGVSTVS
-
-c. AD 178, ?
-
-Proclaimed joint emperor with Balbinus by the Senate in opposition to Maximinus
-
-c. April – July 238
-
-July 29, AD 238 Assassinated by the Praetorian Guard
-
-99 days
-
-
-
-
-Balbinus (non-dynastic)  CAESAR DECIMVS CAELIVS CALVINVS BALBINVS PIVS AVGVSTVS
-
-?
-
-Proclaimed joint emperor with Pupienus by the Senate after death of Gordian I and II, in opposition to Maximinus
-
-c. April – July 238
-
-July 29, AD 238  Assassinated by Praetorian Guard
-
-99 days
-
-
-
-
-Gordian III  CAESAR MARCVS ANTONIVS GORDIANVS AVGVSTVS
-
-January 20, AD 225, Rome
-
-Proclaimed emperor by supporters of Gordian I and II, then by the Senate; caesar with Pupienus and Balbinus until July AD 238. Grandson of Gordian I
-
-c. July 238 – February 244
-
-February 11, AD 244  Unknown; possibly murdered on orders of Philip I
-
-5 years, 7 months
-
-Non-dynastic[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Philip the Arab  CAESAR MARCVS IVLIVS PHILIPPVS AVGVSTVS  with Philip II
-MARCVS IVLIVS SEVERVS PHILLIPVS AVGVSTVS
-
-
-c. AD 204, Shahba, Syria
-
-Praetorian Prefect to Gordian III, took power after his death; made his son Philip II co-emperor in summer AD 247
-
-c. February 244 – September 249
-
-September/October AD 249 (aged 45) Killed in the Battle of Verona by Decius
-
-5 years, 7 months
-
-Decian dynasty[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Trajan Decius  CAESAR GAIVS MESSIVS QVINTVS TRAIANVS DECIVS AVGVSTVS  with Herennius Etruscus
-
-c. AD 201, Budalia, Pannonia Inferior
-
-Governor under Philip I; proclaimed emperor by Danubian legions then defeating & killing Philip in the Battle of Verona; made his son Herennius Etruscus co-emperor in early AD 251
-
-c. September 249 – June 251
-
-June AD 251  Both killed in the Battle of Abrittus fighting against the Goths
-
-2 years
-
-
-
-
-Hostilian  CAESAR CAIVS VALENS HOSTILIANVS MESSIVS QVINTVS AVGVSTVS
-
-Sirmium
-
-Son of Trajan Decius, accepted as heir by the Senate
-
-c. June 251 – late 251
-
-September/October AD 251  Natural causes (plague)
-
-4–5 months
-
-Non-dynastic[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Trebonianus Gallus  CAESAR GAIVS VIBIVS TREBONIANVS GALLVS AVGVSTVS  with Volusianus
-GAIVS VIBIVS VOLVSIANVS AVGVSTVS
-
-
-AD 206, Italia
-
-Governor of Moesia Superior, proclaimed emperor by Danubian legions after Decius's death (and in opposition to Hostilian); made his son Volusianus co-emperor in late AD 251.
-
-c. June 251 – August 253
-
-August AD 253 (aged 47) Assassinated by their own troops, in favor of Aemilian
-
-2 years
-
-
-
-
-Aemilian  CAESAR MARCVS AEMILIVS AEMILIANVS AVGVSTVS
-
-c. AD 207 or 213 Africa
-
-Governor of Moesia Superior, proclaimed emperor by Danubian legions after defeating the Goths; accepted as emperor after death of Gallus
-
-c. August – October 253
-
-September/October AD 253 (aged 40 or 46) Assassinated by his own troops, in favor of Valerian
-
-2 months
-
-Valerian dynasty[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Valerian  CAESAR PVBLIVS LICINIVS VALERIANVS AVGVSTVS
-
-c. AD 195
-
-Governor of Noricum and Raetia, proclaimed emperor by Rhine legions after death of Gallus; accepted as emperor after death of Aemilian
-
-c. October 253 – 260
-
-After AD 260  Captured in Battle of Edessa against Persians, died in captivity
-
-7 years
-
-
-
-
-Gallienus  CAESAR PVBLIVS LICINIVS EGNATIVS GALLIENVS AVGVSTVS  with Saloninus
-
-AD 218
-
-Son of Valerian, made co-emperor in AD 253; his son Saloninus is very briefly co-emperor in c. July 260 before assassination by Postumus
-
-c. October 253 – September 268
-
-September AD 268  Murdered at Aquileia by his own commanders
-
-15 years
-
-Claudian dynasty[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Claudius II  CAESAR MARCVS AVRELIVS CLAVDIVS AVGVSTVS 
-
-May 10, AD 210, Sirmium
-
-Victorious general at Battle of Naissus, seized power after Gallienus's death According to Epitome de Caesaribus he was a bastard son of Gordian II
-
-c. September 268 – January/April 270
-
-January/April AD 270 (aged 60) Natural causes (plague)
-
-1 year, 4–7 months
-
-
-
-
-Quintillus  CAESAR MARCVS AVRELIVS CLAVDIVS QVINTILLVS AVGVSTVS 
-
-c. AD 210, Sirmium
-
-Brother of Claudius II, seized power after his death
-
-c. April–May (?) 270
-
-AD 270 (aged around 60) Unclear; possibly suicide or murder
-
-17–77 days
-
-Non-dynastic[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Aurelian  CAESAR LVCIVS DOMITIVS AVRELIANVS AVGVSTVS 
-
-September 9, AD 214/AD 215, Sirmium
-
-Proclaimed emperor by Danubian legions after Claudius II's death, in opposition to Quintillus
-
-c. May 270 –  October 275
-
-September AD 275 (aged 60–61) Assassinated by Praetorian Guard
-
-5 years
-
-Tacitan dynasty[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Tacitus  CAESAR MARCVS CLAVDIVS TACITVS AVGVSTVS 
-
-c. 200, Interamna Nahars, Italia
-
-Elected by the Senate to replace Aurelian, after a short interregnum
-
-c. December 275 – June 276
-
-June AD 276 (aged 76) Natural causes (fever), possibly assassinated
-
-9 months
-
-
-
-
-Florianus  CAESAR MARCVS ANNIVS FLORIANVS AVGVSTVS 
-
-?
-
-Brother of Tacitus, elected by the army in the west to replace him
-
-c. June 276 – September 276
-
-September? AD 276 (aged ?) Assassinated by his own troops, in favor of Probus
-
-3 months
-
-Non-dynastic[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Probus  CAESAR MARCVS AVRELIVS PROBVS AVGVSTVS 
-
-AD 232, Sirmium
-
-Governor of the eastern provinces, proclaimed emperor by Danubian legions in opposition to Florian
-
-c. September 276 – September AD 282
-
-September/ October AD 282 (aged 50) Assassinated by his own troops, in favor of Carus
-
-6 years
-
-Caran dynasty[edit]
-
-
-Portrait
-
-Name
-
-Birth
-
-Succession
-
-Reign
-
-Death
-
-Time in office
-
-
-
-
-Carus  CAESAR MARCVS AVRELIVS CARVS AVGVSTVS 
-
-c. AD 230, Narbo, Gallia Narbonensis
-
-Praetorian Prefect to Probus; seized power either before or after Probus was murdered; made his son Carinus co-emperor in early AD 283
-
-c. September 282 – July/August 283
-
-July/August AD 283  Natural causes? (Possibly killed by lightning)
-
-10–11 months
-
-
-
-
-Numerian  CAESAR MARCVS AVRELIVS NVMERIVS NVMERIANVS AVGVSTVS 
-
-?
-
-Son of Carus, succeeded him jointly with his brother Carinus
-
-c. July/August 283 – November 284
-
-AD 284  Unclear; possibly assassinated
-
-1 year
-
-
-
-
-Carinus  CAESAR MARCVS AVRELIVS CARINVS AVGVSTVS 
-
-?
-
-Son of Carus, ruled shortly with him and then with his brother Numerian
-
-Spring 283– July 285
-
-July AD 285  Died in the Battle of the Margus
-
-2 years
-
-See also[edit]
-Bagaudae
-Sengoku period – a similar period in Japanese history
-Warring States period and Three Kingdoms period – similar periods in Chinese history (the latter roughly contemporaneous with the Crisis of the Third Century)
-Jublains archeological site documents some effects of the crisis in what is now western France
-Notes[edit]
-
-
-^ Adriatic-Ionian-centered
-
-
-Citations[edit]
-
-
-^ van Sickle, C. E. (1930). "Particularism in the Roman Empire during the Military Anarchy". American Journal of Philology. 51 (4): 343–357. doi:10.2307/289894. JSTOR 289894.
-
-^ Brown, Peter Robert Lamont (1971). The World of Late Antiquity. London: Thames and Hudson. p. 22. ISBN 978-0500320228.
-
-^ Potter, David Stone (2004). The Roman Empire at Bay, AD 180–395 Routledge history of the ancient world. Psychology Press. pp. 85, 167. ISBN 978-0415100588.
-
-^ "Septimius Severus:Legionary Denarius". Penelope.uchicago.edu. Retrieved 2019-05-10.
-
-^ Kenneth W. Harl, Coinage in the Roman Economy, 300 B.C. to A.D. 700, Part 700, p. 216
-
-^ R.J. van der Spek, Lukas De Blois (2008), An Introduction to the Ancient World, p. 272 Archived 2017-07-30 at the Wayback Machine, Routledge
-
-^ Grant, Michael (1996). The Severans: the Changed Roman Empire. Psychology Press. p. 42.
-
-^ Dunstan, William, E. (2011). Ancient Rome. Lanham: Rowman and Littlefield. p. 405. ISBN 978-0-7425-6832-7.{{cite book}}:  CS1 maint: multiple names: authors list (link)
-
-^ Boatwright, Mary Taliaferro; Gargola, Daniel J; Talbert, Richard J. A. (2004). The Romans, from village to empire. Oxford University Press. p. 413. ISBN 978-0-19-511875-9.
-
-^ Goldsworthy, Adrian (2009). How Rome Fell: death of a superpower. New Haven: Yale University Press. p. 70. ISBN 978-0-300-16426-8.
-
-^ Alaric Watson (2004). Aurelian and the Third Century. Routledge. pp. 11–13. ISBN 1134908156.
-
-^ " Herodian says "in their opinion, Alexander showed no honourable intention to pursue the war and preferred a life of ease, when he should have marched out to punish the Germans for their previous insolence" (Herodian vi.7.10).
-
-^ Southern, Pat The Roman Empire from Severus to Constantine, Routledge, 2001, p. 64
-
-^ Southern, Pat The Roman Empire from Severus to Constantine, Routledge, 2001, p. 66
-
-^ Joannes Zonaras, Compendium of History extract: Zonaras: Alexander Severus to Diocletian: 222–284 12:16
-
-^ Southern, Pat The Roman Empire from Severus to Constantine, Routledge, 2001, p. 67
-
-^ Meckler, Michael L., Maximinus Thrax (235–238 A.D.), De Imperatoribus Romanis (1997)
-
-^ Southern, Pat (2011-02-17). "Third Century Crisis of the Roman Empire". BBC History, 17 February 2011.
-
-^ Zosimus (1814) [translation originally printed]. The New History, Book 1. (scanned and published online by Roger Pearse). London: Green and Chaplin. pp. 16, 21, 31. Retrieved 2016-04-22.
-
-^ Sherman, Irwin W. (2006). The power of plagues by Irwin W. Sherman. ISBN 9781555816483.
-
-^ "Rome's Imperial Crisis of the Third Century". Brewminate: A Bold Blend of News and Ideas. 2019-04-22. Retrieved 2023-01-12.
-
-^ G. M. Rogers (December 1988). "The Crisis of the Third Century A.D." Belleten. 52 (205): 1509–1526. doi:10.37879/belleten.1988.1509. S2CID 252492735.
-
-^ Kolb, Frank (1987). Diocletian und die Erste Tetrarchie. Improvisation oder Experiment in der Organisation monarchischer Herrschaft?, Berlin: de Gruyter. ISBN 978-3-11-010934-4
-
-^ MacMullen, Ramsay. Constantine. New York: Dial Press, 1969. ISBN 0-7099-4685-6
-
-^ "Res Publica Restituta? Republic and Princeps in the Early Roman Empire – Armstrong Undergraduate Journal of History". www.armstrong.edu. Archived from the original on 2018-11-12. Retrieved 2018-10-19.
-
-^ Freedman, Paul (Fall 2011). "The Crisis of the Third Century and the Diocletianic Reforms". Yale University. Archived from the original on 2017-12-08. Retrieved 2018-10-19.
-
-^ Sabbatani, S.; Fiorino, S. (December 2009). "The Antonine Plague and the decline of the Roman Empire". Le Infezioni in Medicina: Rivista Periodica di Eziologia, Epidemiologia, Diagnostica, Clinica e Terapia delle Patologie Infettive. 17 (4): 261–275. ISSN 1124-9390. PMID 20046111.
-
-^ Bernett, Rich (2020-08-22). "Systemic Problems that Led to the Crisis of the Third Century". Wondrium Daily. Retrieved 2023-01-12.
-
-^ Harper, Kyle (2017-11-01). "Solving the Mystery of an Ancient Roman Plague". The Atlantic. Archived from the original on 2018-01-21. Retrieved 2018-10-20.
-
-^ Light, John A. (26 January 2011). "Was the Roman Empire a victim of climate change?". Need to Know. PBS. Archived from the original on 2018-10-20.
-
-^ Nigel., Rodgers (2006). Roman Empire. Dodge, Hazel. London: Lorenz Books. ISBN 978-0754816027. OCLC 62177842.
-
-^ Josef Wiesehöfer: Das Reich der Sāsāniden, in Klaus Peter Johne, Udo Hartmann, Thomas Gerhardt, Die Zeit der Soldatenkaiser: Krise und Transformation des Römischen Reiches im 3. Jahrhundert n. Chr. (235–284) 2008, p. 531ff.
-
-^ Erich Kettenhofen: Die Eroberung von Nisibis und Karrhai durch die Sāsāniden in der Zeit Kaiser Maximins, AD 235/236. In: Iranica Antiqua 30 (1995), pp. 159–177.
-
-^ "This infographic shows how currency debasement contributed to the fall of Rome". Business Insider. Archived from the original on 2017-10-11. Retrieved 2017-10-20.
-
-^ Flichy, Thomas (28 September 2012). Financial crises and renewal of empires. Lulu.com. ISBN 9781291097337.[self-published source]
-
-^ Henry St. Lawrence Beaufort Moss (1935). The Birth of the Middle Ages 395–814. London: Oxford University Press. pp. 1.
-
-^ H. St. L. B. Moss, The Birth of the Middle Ages  (Clarendon Press, 1935, reprint Oxford University Press, 2000) ISBN 0-19-500260-1
-
-^ H. St. L. B. Moss, The Birth of the Middle Ages  (Clarendon Press, 1935, reprint Oxford University Press, 2000) ISBN 0-19-500260-1 pp. 29–30
-
-^ H. St. L. B. Moss, The Birth of the Middle Ages  (Clarendon Press, 1935, reprint Oxford University Press, 2000) ISBN 0-19-500260-1 pp. 26, 28–29
-
-^ Ruffing, Kai (2006). Deleto paene imperio Romano: Transformationsprozesse des Römischen Reiches im 3. Jahrhundert und ihre Rezeption in der Neuzeit. Stuttgart: Steiner. p. 223. ISBN 978-3-515-08941-8. OCLC 180946164.
-
-^ Hekster, Olivier. (2008). Rome and its Empire, AD 193–284. Edinburgh: Edinburgh University Press. p. 31. ISBN 978-0-7486-2992-3. OCLC 271165910.
-
-^ H. St. L. B. Moss, The Birth of the Middle Ages  (Clarendon Press, 1935, reprint Oxford University Press, January 2000) ISBN 0-19-500260-1 pp. 7, 30
-
-^ Joseph Tainter (1988). The Collapse of Complex Societies. Cambridge University Press. p. 144. ISBN 052138673X.
-
-^ Johne, Klaus-Peter; Hartmann, Udo; Gerhardt, Thomas (2008). Die Zeit der Soldatenkaiser: Krise und Transformation des Römischen Reiches im 3. Jahrhundert n. Chr. (235–284). Rome: Akademie Verlag. p. 1026. ISBN 978-3050045290.
-
-^ Alaric Watson (2004). Aurelian and the Third Century. Routledge. pp. 14–15. ISBN 1134908156.
-
-
-General bibliography[edit]
-Allen, Larry (2009). The Encyclopedia of Money (2nd ed.). Santa Barbara, CA: ABC-CLIO. pp. 346–348. ISBN 978-1598842517.
-Davies, Glyn (1997) [1994]. A History of Money: From Ancient Times to the Present Day (Reprint ed.). Cardiff: University of Wales Press. pp. 95–99. ISBN 978-0708313510.
-Olivier Hekster, Rome and Its Empire, AD 193–284 (Edinburgh, 2008). ISBN 978 0 7486 2303 7.
-Klaus-Peter Johne (ed.), Die Zeit der Soldatenkaiser (Akademie Verlag, Berlin 2008).
-Lot, Ferdinand. End of the Ancient World and the Beginnings of the Middle Ages (Harper Torchbooks Printing, New York, 1961.  First English printing by Alfred A. Knopf, Inc., 1931).
-Moss, H. St. L. B. The Birth of the Middle Ages (Clarendon Press, 1935, reprint Oxford University Press, January 2000). ISBN 0-19-500260-1.
-Watson, Alaric. Aurelian and the Third Century (Taylor & Francis, 2004) ISBN 0-415-30187-4
-White, John F. Restorer of the World: The Roman Emperor Aurelian (Spellmount, 2004) ISBN 1-86227-250-6
-Further reading[edit]
-Crisis of the Third Century, Hugh Kramer.
-Map, University of Calgary.
-The Crisis of the Third Century, OSU.
-vteAncient Roman warsWars of theRoman Republic
-Roman conquest of Italy
-Roman–Etruscan Wars
-Roman-Aequian wars
-Roman–Latin wars
-Roman–Hernician wars
-Roman–Volscian wars
-Roman–Sabine wars
-Samnite Wars
-Pyrrhic War
-Social War
-Roman–Gallic wars
-Punic Wars
-First
-Second
-Third
-Illyro-Roman Wars
-Macedonian Wars
-First
-Second
-Third
-Fourth
-Roman–Seleucid war
-Galatian War
-Roman conquest of the Iberian Peninsula
-Celtiberian Wars
-Lusitanian War
-Numantine War
-Sertorian War
-Cantabrian Wars
-Achaean War
-Jugurthine War
-Cimbrian War
-Servile Wars
-First
-Second
-Third
-Bellum Octavianum
-Sulla's civil war
-Mithridatic Wars
-First
-Second
-Third
-Gallic Wars
-Julius Caesar's invasions of Britain
-Roman–Parthian Wars
-Caesar's civil war
-War of Mutina
-Liberators' civil war
-Bellum Siculum
-Perusine War
-War of Actium
-Wars of theRoman Empire
-Germanic wars
-Marcomannic Wars
-Gothic War
-Roman conquest of Britain
-Boudican revolt
-Armenian War
-Civil war of 69
-Jewish–Roman wars
-Domitian's Dacian War
-Trajan's Dacian Wars
-Roman–Persian Wars
-Civil wars of the Third Century
-Wars of the fall of the Western Roman Empire
-Military history of ancient Rome
-vteHistory of EuropePrehistory
-Paleolithic Europe
-Neolithic Europe
-Bronze Age Europe
-Iron Age Europe
-Classical antiquity
-Classical Greece
-Roman Republic
-Hellenistic period
-Roman Empire
-Early Christianity
-Christianity in late antiquity
-Crisis of the Third Century
-Fall of the Western Roman Empire
-Late antiquity
-Middle Ages
-Early Middle Ages
-Migration Period
-Christianity in the Middle Ages
-Christianization
-Francia
-Anglo-Saxon England
-Byzantine Empire
-Papal States
-Bulgarian Empire
-First
-Second
-Maritime republics
-Venice
-Genoa
-Pisa
-Amalfi
-Viking Age
-Kievan Rus'
-Crown of Aragon (Aragon, Catalonia, Valencia, Majorca)
-Holy Roman Empire
-High Middle Ages
-Republic of Florence
-Feudalism
-Crusades
-Mongol invasion
-Serbian Empire
-Late Middle Ages
-Black Death
-Hundred Years' War
-Kalmar Union
-Early modern
-Renaissance
-Christianity in the modern era
-Reformation
-Age of Discovery
-Baroque
-Grand Duchy of Tuscany
-Thirty Years' War
-Absolute monarchy
-Ottoman Empire
-Portuguese Empire
-Spanish Empire
-Early modern France
-Polish–Lithuanian Commonwealth
-Cossack Hetmanate
-Swedish Empire
-Dutch Republic
-British Empire
-Habsburg monarchy
-Russian Empire
-Age of Enlightenment
-Late modern
-Great Divergence
-Industrial Revolution
-French Revolution
-Napoleonic Wars
-Nationalism
-Revolutions of 1848
-World War I
-Russian Revolution
-Interwar period
-World War II
-Cold War
-European integration
-European debt crisis
-COVID-19 pandemic and Deltacron hybrid variant (2020-22)
-Russian invasion of Ukraine
-See also
-Art of Europe
-Genetic history of Europe
-History of Christianity
-History of the Mediterranean region
-History of the European Union
-History of Western civilization
-Maritime history of Europe
-Military history of Europe
-Crusading movement
-
-vteFinancial crises
-See also: Banking panic
-Commodity price shocks
-Credit crunch
-Credit cycle
-Currency crisis
-Debt crisis
-Energy crisis
-Financial contagion
-Flash crash
-Hyperinflation
-Liquidity crisis
-Minsky moment
-Social crisis 
-Stock market crash
-Pre-1000
-Crisis of the Third Century (235–284 CE)
-Commercial Revolution(1000–1760)
-Great Bullion Famine (c. 1400–c. 1500)
-The Great Debasement (1544–1551)
-Dutch Republic stock market crashes (c. 1600–1760)
-Kipper und Wipper (1621–1623)
-Tulip mania crash (1637)
-South Sea bubble crash (1720)
-Mississippi bubble crash (1720)
-Industrial Revolution(1760–1840)
-Amsterdam banking crisis of 1763
-Bengal bubble crash (1769–1784)
-British credit crisis of 1772-1773
-Dutch Republic financial collapse (c. 1780–1795)
-Panic of 1785
-Copper Panic of 1789
-Panic of 1792
-Panic of 1796–1797
-Danish state bankruptcy of 1813
-Post-Napoleonic Irish grain price and land use shocks (1815–1816)
-Panic of 1819
-Panic of 1825
-Panic of 1837
-1840–1870
-European Potato Failure (1845–1856)
-Great Irish Famine
-Highland Potato Famine
-Panic of 1847
-Panic of 1857
-Panic of 1866
-Black Friday (1869)
-SecondIndustrial Revolution(1870–1914)
-Panic of 1873
-Paris Bourse crash of 1882
-Panic of 1884
-Arendal crash (1886)
-Baring crisis (1890)
-Encilhamento (1890–1893)
-Panic of 1893
-Australian banking crisis of 1893
-Black Monday (1894)
-Panic of 1896
-Panic of 1901
-Panic of 1907
-Shanghai rubber stock market crisis (1910)
-Panic of 1910–1911
-Financial crisis of 1914
-Interwar period(1918–1939)
-Early Soviet hyperinflation (1917–1924)
-Weimar Republic hyperinflation (1921–1923)
-Shōwa financial crisis (1927)
-Wall Street Crash of 1929
-Great Depression (1929–1939)
-Panic of 1930
-Post–WWII expansion(1940–1972)
-Kennedy Slide of 1962
-1963-1965 Indonesian hyperinflation
-Great Inflation(1973–1982)
-1970s energy crisis (1973–1980)
-1973 oil crisis
-1973–1974 stock market crash
-Secondary banking crisis of 1973–1975
-Steel crisis (1973–1982)
-Latin American debt crisis (1975–1982)
-1976 British currency crisis
-1979 oil crisis
-Brazilian hyperinflation (1980–1982)
-Great Moderation(1982–2007)
-Brazilian hyperinflation (1982–1994)
-Souk Al-Manakh stock market crash (1982)
-Chilean crisis of 1982
-1983 Israel bank stock crisis
-Black Saturday (1983)
-Savings and loan crisis (1986–1995)
-Black Monday (1987)
-Dissolution of the Soviet Union (1988-1991)
-1988–1992 Norwegian banking crisis
-Japanese asset price bubble crash (1990–1992)
-Rhode Island banking crisis (1990–1992)
-1991 Indian economic crisis
-1990s Swedish financial crisis
-1990s Finnish banking crisis
-1990s Armenian energy crisis
-Cuban Special Period (1991–2000)
-Black Wednesday (1992 Sterling crisis)
-Yugoslav hyperinflation (1992–1994)
-1994 bond market crisis
-Venezuelan banking crisis of 1994
-Mexican peso crisis (1994–1996)
-1997 Asian financial crisis
-1998 Russian financial crisis
-1998–1999 Ecuador economic crisis
-1998–2002 Argentine great depression
-Samba effect (1999)
-Dot-com bubble crash (2000–2004)
-2001 Turkish economic crisis
-South American economic crisis of 2002
-2002 Uruguay banking crisis
-2003 Myanmar banking crisis
-2004 Argentine energy crisis
-2007 Chinese stock bubble crash
-Zimbabwean hyperinflation (2007–present)
-Great Recession(2007–2013)
-2007–2008 financial crisis
-Subprime mortgage crisis
-U.S. bear market of 2007–2009
-Global financial crisis in September 2008
-Global financial crisis in October 2008
-Global financial crisis in November 2008
-Global financial crisis in December 2008
-2008 Latvian financial crisis
-2008–2009 Belgian financial crisis
-2008–2009 Russian financial crisis
-2008–2009 Ukrainian financial crisis
-2008–2011 Icelandic financial crisis
-2008–2011 Irish banking crisis
-2008–2014 Spanish financial crisis
-Global financial crisis in 2009
-Blue Monday Crash 2009
-European debt crisis
-Greek government-debt crisis
-2009 Dubai debt standstill
-Venezuelan banking crisis of 2009–2010
-2010–2014 Portuguese financial crisis
-Energy crisis in Venezuela (2010–present)
-Syrian economic crisis (2011–present)
-August 2011 stock markets fall
-2011 Bangladesh share market scam
-2012–2013 Cypriot financial crisis
-2013 Chinese banking liquidity crisis
-Digital Revolution(2013–present)
-Venezuela economic crisis (2013–present)
-2014–2016 Brazilian economic crisis
-Puerto Rican government-debt crisis (2014–2022)
-Russian financial crisis (2014–2016)
-2015 Nepal blockade
-2015–2016 Chinese stock market turbulence
-2015–2016 stock market selloff
-Brexit stock market crash (2016)
-Venezuelan hyperinflation (2016–present)
-2017 Sri Lankan fuel crisis
-Ghana banking crisis (2017–2018)
-2018–2023 Turkish currency and debt crisis
-Lebanese liquidity crisis (2019–present)
-2019–present Sri Lankan economic crisis
-COVID-19 pandemic
-Financial market impact
-2020 stock market crash
-Recession
-2020–2023 Chinese property sector crisis
-2021–2023 inflation surge
-2022 Russian financial crisis
-2022 stock market decline
-2023 United States banking crisis
-
-List of banking crises
-List of economic crises
-List of sovereign debt crises
-List of stock market crashes and bear markets
-
-Authority control databases: National 
-Israel
-United States
-
-
-
-
-
-Retrieved from "https://en.wikipedia.org/w/index.php?title=Crisis_of_the_Third_Century&oldid=1180941426"
-Categories: Crisis of the Third Century3rd century in the Roman EmpireHidden categories: Webarchive template wayback linksCS1 maint: multiple names: authors listAll accuracy disputesAccuracy disputes from February 2020Articles with short descriptionShort description is different from WikidataArticles needing translation from German WikipediaArticles needing additional references from October 2015All articles needing additional referencesAll articles with unsourced statementsArticles with unsourced statements from October 2015Articles needing additional references from August 2017All articles with self-published sourcesArticles with self-published sources from February 2020Articles with unsourced statements from October 2008Articles with J9U identifiersArticles with LCCN identifiers
-
-
-
-
-
-
- This page was last edited on 19 October 2023, at 20:16 (UTC).
-Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
-additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
-
-
-Privacy policy
-About Wikipedia
-Disclaimers
-Contact Wikipedia
-Code of Conduct
-Developers
-Statistics
-Cookie statement
-Mobile view
-
-
-
-
-
-
-
-
-
-
-
-
-
-Toggle limited content width
 
 
 

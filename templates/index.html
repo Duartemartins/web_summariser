@@ -37,17 +37,21 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NG9F4B2B" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-    <div class="min-h-screen flex flex-col items-center justify-center">
-        <div class="text-center mb-8">
+    <div class="flex flex-col justify-center items-center min-h-screen">
+        <div class="mb-8 text-center">
             <h1 class="text-4xl font-bold">Web Summariser</h1> <!-- Name of the app -->
+            <p class="mt-2 text-gray-700">
+                by <a href="https://www.trydeepdive.com" class="underline">DeepDive</a>
+            </p>
             <p class="mt-2 text-gray-700">
                 Safely summarise web pages of any size using the power of AI.
             </p>
+            
         </div>
-        <form onsubmit="submitApiKey(event)" class="bg-white p-6 rounded shadow-lg mb-4 w-1/3">
-            <input type="text" name="api_key" class="border p-2 rounded w-full" placeholder="Enter OpenAI API Key"
+        <form onsubmit="submitApiKey(event)" class="p-6 mb-4 w-1/3 bg-white rounded shadow-lg">
+            <input type="text" name="api_key" class="p-2 w-full rounded border" placeholder="Enter OpenAI API Key"
                 required>
-            <button type="submit" class="bg-blue-500 text-white p-2 rounded mt-4">Submit</button>
+            <button type="submit" class="p-2 mt-4 text-white bg-blue-500 rounded">Submit</button>
             <p class="mt-4 text-sm text-gray-700">
                 Your OpenAI API key is safe. Precautions have been taken to secure it, including server-side handling
                 and secure transmission.
@@ -60,25 +64,25 @@
             </p>
         </form>
 
-        <form onsubmit="submitUrl(event)" class="bg-white p-6 rounded shadow-lg w-1/3">
-            <input type="url" name="web_url" class="border p-2 rounded w-full" placeholder="Enter webpage URL" required
+        <form onsubmit="submitUrl(event)" class="p-6 w-1/3 bg-white rounded shadow-lg">
+            <input type="url" name="web_url" class="p-2 w-full rounded border" placeholder="Enter webpage URL" required
                 pattern="https?://.+" title="Include http:// or https://">
-            <button type="submit" class="bg-blue-500 text-white p-2 rounded mt-4 w-full" id="submit-url">Submit
+            <button type="submit" class="p-2 mt-4 w-full text-white bg-blue-500 rounded" id="submit-url">Submit
                 URL</button>
         </form>
 
         <!-- Place Buy Me a Coffee link in a new centered div -->
-        <div class="text-center mb-4 w-1/6 mt-5">
+        <div class="mt-5 mb-4 w-1/6 text-center">
             <a href="https://www.buymeacoffee.com/vj29sqm686n" target="_blank"><img
                     src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"
                     class="mx-auto"></a>
         </div>
         <div id="error-popup"
-            class="hidden absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 flex justify-center items-center">
-            <div class="bg-white p-4 rounded shadow-lg text-center">
+            class="flex hidden absolute top-0 left-0 justify-center items-center w-full h-full bg-black bg-opacity-50">
+            <div class="p-4 text-center bg-white rounded shadow-lg">
                 <p class="text-red-500">Incorrect API key. Please check and try again.</p>
                 <button id="close-popup"
-                    class="mt-2 bg-red-500 text-white py-1 px-4 rounded hover:bg-red-600">Close</button>
+                    class="px-4 py-1 mt-2 text-white bg-red-500 rounded hover:bg-red-600">Close</button>
             </div>
         </div>
 
@@ -87,15 +91,20 @@
         <div id="loading-spinner" class="hidden">Loading...</div>
 
 
-        <div id="summary" class="hidden bg-white p-6 rounded shadow-lg mt-4 w-1/3">
-            <div class="flex justify-between items-center w-full mb-4"> <!-- Flex container -->
+        <div id="summary" class="hidden p-6 mt-4 w-1/3 bg-white rounded shadow-lg">
+            <div class="flex justify-between items-center mb-4 w-full"> <!-- Flex container -->
                 <h2 class="text-2xl font-bold">Summary</h2>
 
-                <button id="shareButton" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                
+
+                <button id="shareButton" class="px-4 py-2 font-bold text-white bg-blue-500 rounded hover:bg-blue-700">
                     Share
                 </button>
             </div>
-            <div id="summary-content" class="">
+            <div class="p-3 bg-gray-100 rounded">
+                <p class="text-sm text-gray-700">Want to analyze the generated text? Use the <a href="https://trydeepdive.com/text-analyser" target="_blank" class="text-blue-500 hover:text-blue-600">DeepDive Text Analyser</a>.</p>
+            </div>
+            <div id="summary-content" class="mt-2">
                 <!-- Summary will go here -->
             </div>
         </div>
